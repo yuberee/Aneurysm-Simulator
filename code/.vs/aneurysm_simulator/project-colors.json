@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4a40847-5946-4012-b337-8fc503d7b932": {
+      "ProjectGuid": "d4a40847-5946-4012-b337-8fc503d7b932",
+      "DisplayName": "aneurysm_simulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
